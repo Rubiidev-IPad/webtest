@@ -1,1 +1,1 @@
-very simple website test, coded on an ipad with the help of gpt-3.5 or gpt-4o idk rn
+Basic website test created on an iPad with assistance from GPT-3.5 or GPT-4, I'm not certain which at the moment.
